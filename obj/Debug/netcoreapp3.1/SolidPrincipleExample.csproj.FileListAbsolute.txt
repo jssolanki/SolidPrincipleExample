@@ -1,0 +1,13 @@
+D:\Work\SolidPrincipleExample\obj\Debug\netcoreapp3.1\SolidPrincipleExample.csprojAssemblyReference.cache
+D:\Work\SolidPrincipleExample\obj\Debug\netcoreapp3.1\SolidPrincipleExample.AssemblyInfoInputs.cache
+D:\Work\SolidPrincipleExample\obj\Debug\netcoreapp3.1\SolidPrincipleExample.AssemblyInfo.cs
+D:\Work\SolidPrincipleExample\obj\Debug\netcoreapp3.1\SolidPrincipleExample.csproj.CoreCompileInputs.cache
+D:\Work\SolidPrincipleExample\bin\Debug\netcoreapp3.1\SolidPrincipleExample.exe
+D:\Work\SolidPrincipleExample\bin\Debug\netcoreapp3.1\SolidPrincipleExample.deps.json
+D:\Work\SolidPrincipleExample\bin\Debug\netcoreapp3.1\SolidPrincipleExample.runtimeconfig.json
+D:\Work\SolidPrincipleExample\bin\Debug\netcoreapp3.1\SolidPrincipleExample.runtimeconfig.dev.json
+D:\Work\SolidPrincipleExample\bin\Debug\netcoreapp3.1\SolidPrincipleExample.dll
+D:\Work\SolidPrincipleExample\bin\Debug\netcoreapp3.1\SolidPrincipleExample.pdb
+D:\Work\SolidPrincipleExample\obj\Debug\netcoreapp3.1\SolidPrincipleExample.dll
+D:\Work\SolidPrincipleExample\obj\Debug\netcoreapp3.1\SolidPrincipleExample.pdb
+D:\Work\SolidPrincipleExample\obj\Debug\netcoreapp3.1\SolidPrincipleExample.genruntimeconfig.cache
